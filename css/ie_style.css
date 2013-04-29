@@ -1,0 +1,13 @@
+.extra-wrap {zoom:1;}
+
+a.nocolor,.nocolor a{
+	//color:expression(this.parentNode.currentStyle.color);
+}
+
+img { -ms-interpolation-mode: bicubic; }
+
+footer{
+	filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);	
+	bottom:290px;
+	left:0;
+}
