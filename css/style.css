@@ -231,7 +231,7 @@ h2{
 #services .img-box{
 	width:288px;
 	float:left;
-	margin-right:20px;
+	margin-right:44px;
 }
 
 #services .img-box.last{
@@ -263,7 +263,7 @@ footer{
 	transform: rotate(270deg);
 	position:absolute;
 	left:-128px;
-	bottom:255px;
+	bottom:160px;	
 }
 
 .privacy{
@@ -326,13 +326,13 @@ footer{
 
 #form1 .btns .reset{
 	position:absolute;
-	left:300px;
+	left:343px;
 	z-index:10;
 }
 
 #form1 .btns .submit{
 	position:absolute;
-	left:380px;
+	left:405px;
 	z-index:10;
 }
 
@@ -417,12 +417,5 @@ dl.img-box dt,.img-box-set dl dt{float:left;}
 
 
 .cite_text {
-    width:320px;
-    margin-left: -80px;
-    text-align: justify;
-    text-align-last: justify;
-}
-
-.contacts {
-    margin-left: 90px;
+    width:288px;
 }
