@@ -213,25 +213,31 @@ h2{
 	
 	float:left;
 	width:275px;
+    margin-bottom:35px;
 }
 
 #portfolio .img-box-set dl dt{
 	clear:both;
-	margin-bottom:20px;
+	margin-bottom:10px;
 }
 
+#portfolio .img-box-set dl dd p{
+    margin-bottom: 10px;
+}
 #portfolio .img-box-set dl dd{
 	float:left;	
 }
 
 #portfolio .img-box-set dl.last{
 	margin-right:0;
+    margin-bottom:35px;
 }
 
 #services .img-box{
 	width:288px;
 	float:left;
-	margin-right:20px;
+	margin-right:10px;
+    margin-bottom: 35px;
 }
 
 #services .img-box.last{
@@ -239,7 +245,17 @@ h2{
 }
 
 #services .img-box dt{
-	margin-right:20px;
+	margin-right:10px;
+}
+
+.img-box a{
+    color:#4f4836;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+.img-box a:hover{
+    text-decoration:underline;
 }
 
 cite{
@@ -256,7 +272,7 @@ cite .autor{
 
 
 /*footer*/
-footer{	
+footer{
 	-webkit-transform: rotate(270deg);
 	-moz-transform: rotate(270deg);
 	-o-transform: rotate(270deg);
@@ -326,13 +342,13 @@ footer{
 
 #form1 .btns .reset{
 	position:absolute;
-	left:300px;
+	left:280px;
 	z-index:10;
 }
 
 #form1 .btns .submit{
 	position:absolute;
-	left:380px;
+	left:370px;
 	z-index:10;
 }
 
@@ -425,4 +441,29 @@ dl.img-box dt,.img-box-set dl dt{float:left;}
 
 .contacts {
     margin-left: 90px;
+}
+
+.ideas {
+    width: 1049px;
+}
+
+h3{
+    font-size: 16px;
+    padding-bottom: 5px;
+}
+
+h1{
+    font-size: 35px;
+    font-family: Segoe Script;
+    line-height: 30px;
+    font-weight: bold;
+    font-style: normal;
+    color: #9accc0;
+    text-shadow: 2px 2px white;
+}
+
+aside h1 a {
+    text-decoration: none;
+    color: #9accc0;
+    text-shadow: 2px 2px white;
 }
