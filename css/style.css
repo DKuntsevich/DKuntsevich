@@ -236,12 +236,9 @@ h2{
 #services .img-box{
 	width:288px;
 	float:left;
-<<<<<<< HEAD
 	margin-right:10px;
     margin-bottom: 35px;
-=======
-	margin-right:44px;
->>>>>>> 1cdc73a9a3958e5cab56547088a1ada81a3e37cc
+	/*margin-right:44px;*/
 }
 
 #services .img-box.last{
@@ -283,7 +280,7 @@ footer{
 	transform: rotate(270deg);
 	position:absolute;
 	left:-128px;
-	bottom:160px;	
+	bottom:253px;
 }
 
 .privacy{
@@ -346,21 +343,15 @@ footer{
 
 #form1 .btns .reset{
 	position:absolute;
-<<<<<<< HEAD
 	left:280px;
-=======
-	left:343px;
->>>>>>> 1cdc73a9a3958e5cab56547088a1ada81a3e37cc
+	/*left:343px;*/
 	z-index:10;
 }
 
 #form1 .btns .submit{
 	position:absolute;
-<<<<<<< HEAD
 	left:370px;
-=======
-	left:405px;
->>>>>>> 1cdc73a9a3958e5cab56547088a1ada81a3e37cc
+	/*left:405px;*/
 	z-index:10;
 }
 
@@ -397,6 +388,7 @@ footer{
 	margin-bottom:14px;
 	background:url(../images/g-sep.png) repeat-x bottom;
     width: 232px;
+    margin-left: 75px;
 }
 
 
@@ -445,9 +437,7 @@ dl.img-box dt,.img-box-set dl dt{float:left;}
 
 
 .cite_text {
-<<<<<<< HEAD
     width:320px;
-    margin-left: -80px;
     text-align: justify;
     text-align-last: justify;
 }
@@ -479,7 +469,4 @@ aside h1 a {
     text-decoration: none;
     color: #9accc0;
     text-shadow: 2px 2px white;
-=======
-    width:288px;
->>>>>>> 1cdc73a9a3958e5cab56547088a1ada81a3e37cc
 }
