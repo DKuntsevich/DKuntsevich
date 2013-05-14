@@ -202,7 +202,7 @@ h2{
 	background:#fff;		
 }
 
-#home .img-box img,#portfolio .img-box-set dt img,#contacts .google_map{	
+#home .img-box img,#portfolio .img-box-set dt img,#contacts .google_map{
 	-webkit-box-shadow:0 0 2px 1px rgba(0,0,0,.1);
 	-moz-box-shadow:0 0 2px 1px rgba(0,0,0,.1);
 	box-shadow: 0 0 2px 1px rgba(0,0,0,.1);
@@ -280,14 +280,12 @@ footer{
 	transform: rotate(270deg);
 	position:absolute;
 	left:-128px;
-	bottom:253px;
+	bottom:163px;
 }
 
 .privacy{
 	font:11px/30px "Trebuchet MS", Arial, Helvetica, sans-serif;
 	color:#636363;
-    margin-left: -90px;
-
 }
 
 .privacy a{
