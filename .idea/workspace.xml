@@ -4,14 +4,14 @@
     <list default="true" id="60bf814b-644c-4e45-a4a7-091e2d68f4e6" name="Default" comment="" />
     <ignored path="DKuntsevich.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1367933293691" ignored="false" />
-    <file path="/index.html" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368457233290" ignored="false" />
+    <file path="/Dummy.txt" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368779228696" ignored="false" />
+    <file path="/index.html" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368785833563" ignored="false" />
     <file path="/style.css" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368457082427" ignored="false" />
     <file path="/grid.css" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1367846344993" ignored="false" />
     <file path="/main.html" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368019091654" ignored="false" />
     <file path="/Pillows.html" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368543717934" ignored="false" />
     <file path="/Toys.html" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368540995835" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368544471851" ignored="false" />
+    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="60bf814b-644c-4e45-a4a7-091e2d68f4e6" time="1368610401646" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +34,13 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="22" selection-start="2583" selection-end="2583" vertical-scroll-proportion="0.889336">
+            <state line="348" column="66" selection-start="16753" selection-end="16753" vertical-scroll-proportion="0.36418512">
               <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#li#3;n#ul#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1368540546122" expanded="true" signature="608:674" placeholder="..." />
-                <marker date="1368540546122" expanded="true" signature="675:1100" placeholder="..." />
-                <marker date="1368540546122" expanded="true" signature="794:1089" placeholder="..." />
-                <marker date="1368540546122" expanded="true" signature="911:1076" placeholder="..." />
+                <marker date="1368785857180" expanded="false" signature="608:674" placeholder="..." />
+                <marker date="1368785857180" expanded="true" signature="675:1100" placeholder="..." />
+                <marker date="1368785857180" expanded="true" signature="794:1089" placeholder="..." />
+                <marker date="1368785857180" expanded="true" signature="794:1089" placeholder="..." />
+                <marker date="1368785857180" expanded="true" signature="911:1076" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -49,7 +49,7 @@
       <file leaf-file-name="Pillows.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Pillows.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="27" selection-start="1473" selection-end="1473" vertical-scroll-proportion="-9.153846">
+            <state line="63" column="40" selection-start="3350" selection-end="3351" vertical-scroll-proportion="9.153846">
               <folding>
                 <marker date="1368543913512" expanded="false" signature="624:690" placeholder="..." />
                 <marker date="1368543913512" expanded="true" signature="691:1083" placeholder="..." />
@@ -62,7 +62,7 @@
       <file leaf-file-name="Toys.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Toys.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="31" selection-start="1479" selection-end="1479" vertical-scroll-proportion="-13.076923">
+            <state line="26" column="31" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.0">
               <folding>
                 <marker date="1368543919464" expanded="false" signature="618:684" placeholder="..." />
                 <marker date="1368543919464" expanded="true" signature="685:1077" placeholder="..." />
@@ -75,7 +75,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="282" column="14" selection-start="5468" selection-end="5468" vertical-scroll-proportion="-32.8">
+            <state line="282" column="14" selection-start="5468" selection-end="5468" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -84,7 +84,7 @@
       <file leaf-file-name="grid.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/grid.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="-8.48">
+            <state line="15" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -112,10 +112,10 @@
         <option value="$PROJECT_DIR$/css/grid.css" />
         <option value="$PROJECT_DIR$/../../Nafania/Work/Nadoparty/Nadoparty/main.html" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/Pillows.html" />
         <option value="$PROJECT_DIR$/Toys.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -151,7 +151,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,6 +199,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,12 +278,11 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24646313" sideWeight="0.6713533" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -294,6 +293,7 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32864675" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -360,104 +360,78 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-11.701887">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../../Nafania/Work/Nadoparty/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.8214285">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.8214285" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../Nafania/Work/Nadoparty/Nadoparty/main.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="183" selection-start="9208" selection-end="9208" vertical-scroll-proportion="0.31991953">
-          <folding />
-        </state>
+        <state line="198" column="183" selection-start="9208" selection-end="9208" vertical-scroll-proportion="0.31991953" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/ie_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="17" selection-start="120" selection-end="122" vertical-scroll-proportion="-4.08">
-          <folding />
-        </state>
+        <state line="6" column="17" selection-start="120" selection-end="122" vertical-scroll-proportion="-4.08" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/googleMap.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/html5.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/switcher.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="16" selection-start="191" selection-end="191" vertical-scroll-proportion="-0.015296367">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/scripts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="23" selection-start="632" selection-end="647" vertical-scroll-proportion="0.23518164">
-          <folding />
-        </state>
+        <state line="10" column="16" selection-start="191" selection-end="191" vertical-scroll-proportion="-0.015296367" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.scrollTo-1.4.2-min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/forms.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="24" selection-start="456" selection-end="456" vertical-scroll-proportion="-0.015296367">
-          <folding />
-        </state>
+        <state line="17" column="24" selection-start="456" selection-end="456" vertical-scroll-proportion="-0.015296367" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="282" column="14" selection-start="5468" selection-end="5468" vertical-scroll-proportion="-32.8">
+        <state line="282" column="14" selection-start="5468" selection-end="5468" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/grid.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="-8.48">
+        <state line="15" column="0" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="21" selection-start="1575" selection-end="1576" vertical-scroll-proportion="-6.96" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Nafania/Work/DesignStudio/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-1.6609195" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Toys.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="31" selection-start="1479" selection-end="1479" vertical-scroll-proportion="-13.076923">
+        <state line="26" column="31" selection-start="1479" selection-end="1479" vertical-scroll-proportion="0.0">
           <folding>
             <marker date="1368543919464" expanded="false" signature="618:684" placeholder="..." />
             <marker date="1368543919464" expanded="true" signature="685:1077" placeholder="..." />
@@ -468,7 +442,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Pillows.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="27" selection-start="1473" selection-end="1473" vertical-scroll-proportion="-9.153846">
+        <state line="63" column="40" selection-start="3350" selection-end="3351" vertical-scroll-proportion="9.153846">
           <folding>
             <marker date="1368543913512" expanded="false" signature="624:690" placeholder="..." />
             <marker date="1368543913512" expanded="true" signature="691:1083" placeholder="..." />
@@ -479,13 +453,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="22" selection-start="2583" selection-end="2583" vertical-scroll-proportion="0.889336">
+        <state line="348" column="66" selection-start="16753" selection-end="16753" vertical-scroll-proportion="0.36418512">
           <folding>
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#li#3;n#ul#0;n#article#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1368540546122" expanded="true" signature="608:674" placeholder="..." />
-            <marker date="1368540546122" expanded="true" signature="675:1100" placeholder="..." />
-            <marker date="1368540546122" expanded="true" signature="794:1089" placeholder="..." />
-            <marker date="1368540546122" expanded="true" signature="911:1076" placeholder="..." />
+            <marker date="1368785857180" expanded="false" signature="608:674" placeholder="..." />
+            <marker date="1368785857180" expanded="true" signature="675:1100" placeholder="..." />
+            <marker date="1368785857180" expanded="true" signature="794:1089" placeholder="..." />
+            <marker date="1368785857180" expanded="true" signature="794:1089" placeholder="..." />
+            <marker date="1368785857180" expanded="true" signature="911:1076" placeholder="..." />
           </folding>
         </state>
       </provider>
