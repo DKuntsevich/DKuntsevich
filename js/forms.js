@@ -10,7 +10,7 @@
 					notRequiredCl:'notRequired',
 					successCl:'success',
 					successShow:'4000',
-					mailHandlerURL:'bin/MailHandler.php',
+                    mailHandlerURL:'http://kme-handler.appspot.com/',
 					ownerEmail:'support@guardlex.com',
 					stripHTML:true,
 					smtpMailServer:'localhost',
