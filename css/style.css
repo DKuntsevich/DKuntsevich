@@ -199,7 +199,7 @@ h2{
 	-moz-box-shadow: 3px 3px 4px 0 rgba(0,0,0,.1);
 	box-shadow: 3px 3px 4px 0 rgba(0,0,0,.1);
 	padding:11px;
-	background:#fff;		
+    background:#fff;
 }
 
 #home .img-box img,#portfolio .img-box-set dt img,#contacts .google_map{
@@ -234,11 +234,11 @@ h2{
 }
 
 #services .img-box{
-	width:288px;
-	float:left;
-	margin-right:10px;
+    width:288px;
+    float:left;
+    margin-right:10px;
     margin-bottom: 35px;
-	/*margin-right:44px;*/
+    /*margin-right:44px;*/
 }
 
 #services .img-box.last{
@@ -385,7 +385,7 @@ footer{
 	padding-bottom:33px;
 	margin-bottom:14px;
 	background:url(../images/g-sep.png) repeat-x bottom;
-    width: 232px;
+    width: 261px;
     margin-left: 75px;
 }
 
@@ -435,7 +435,7 @@ dl.img-box dt,.img-box-set dl dt{float:left;}
 
 
 .cite_text {
-    width:320px;
+    width:332px;
     text-align: justify;
     text-align-last: justify;
 }
@@ -454,9 +454,9 @@ h3{
 }
 
 h1{
-    font-size: 35px;
+    font-size: 52px;
     font-family: Segoe Script;
-    line-height: 30px;
+    line-height: 40px;
     font-weight: bold;
     font-style: normal;
     color: #9accc0;
@@ -468,3 +468,9 @@ aside h1 a {
     color: #9accc0;
     text-shadow: 2px 2px white;
 }
+
+h1 img {
+    margin-left: -10px;
+    margin-top: -20px;
+}
+
