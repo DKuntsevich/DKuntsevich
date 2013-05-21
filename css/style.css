@@ -234,7 +234,7 @@ h2{
 }
 
 #services .img-box{
-    width:288px;
+    width:270px;
     float:left;
     margin-right:10px;
     margin-bottom: 35px;
@@ -303,7 +303,8 @@ footer{
 	border:none;
 	padding:5px 20px;
 	font:italic 14px/20px "Trebuchet MS", Arial, Helvetica, sans-serif;
-	width:416px;
+	width:370px;
+    margin-top: 20px;
 }
 
 #form1 textarea{
@@ -315,7 +316,7 @@ footer{
 }
 
 #form1 input{
-	width:176px;
+	width:153px;
 }
 
 #form1 label{
@@ -348,7 +349,7 @@ footer{
 
 #form1 .btns .submit{
 	position:absolute;
-	left:370px;
+	left:330px;
 	/*left:405px;*/
 	z-index:10;
 }
@@ -441,7 +442,7 @@ dl.img-box dt,.img-box-set dl dt{float:left;}
 }
 
 .contacts {
-    margin-left: 90px;
+    margin-left: 10px;
 }
 
 .ideas {
@@ -474,3 +475,6 @@ h1 img {
     margin-top: -20px;
 }
 
+#partners{
+    margin-top: 90px;
+}
