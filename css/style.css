@@ -234,9 +234,9 @@ h2{
 }
 
 #services .img-box{
-    width:270px;
+    width:260px;
     float:left;
-    margin-right:10px;
+    margin-right:20px;
     margin-bottom: 35px;
     /*margin-right:44px;*/
 }
@@ -279,8 +279,8 @@ footer{
 	-o-transform: rotate(270deg);
 	transform: rotate(270deg);
 	position:absolute;
-	left:-128px;
-	bottom:163px;
+	left:-85px;
+	bottom:120px;
 }
 
 .privacy{
@@ -477,4 +477,8 @@ h1 img {
 
 #partners{
     margin-top: 90px;
+}
+
+.ideas .img-box dd {
+    overflow:visible !important;
 }
